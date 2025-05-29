@@ -4,7 +4,7 @@
 ![Mark Index Page](MarksManagement/output/initial.png)
 
 ## Mark Add Page
-![Mark Add Page](MarksManagement/output/add.png)
+![Mark Add Page]([MarksManagement/output/add.png](https://github.com/Nisarga0904/Mark_Management_Java/blob/main/Add.png))
 
 ## Mark Display Page
 ![Mark Display Page](MarksManagement/output/marklist.png)
